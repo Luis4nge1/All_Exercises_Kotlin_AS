@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="beatles">The Beatles</string>
+    <string name="beatles_year">1962</string>
+    <string name="beatles_nationality">England</string>
+    <string name="gunsroses">Guns and Roses</string>
+    <string name="gunsroses_year">1985</string>
+    <string name="gunsroses_nationalityr">USA</string>
+    <string name="michaelJackson">Michael Jackson</string>
+    <string name="michaelJackson_year">1964</string>
+    <string name="michaelJackson_nationality">USA</string>
+    <string name="queen">Queen</string>
+    <string name="queen_year">1971</string>
+    <string name="queen_nationality">England</string>
+    <string name="modernTalking">Modern Talking</string>
+    <string name="modernTalking_year">18984</string>
+    <string name="modernTalking_nationality">Germany</string>
+    <string name="pinkFloyd">Pink Floyd</string>
+    <string name="pinkFloyd_year">1964</string>
+    <string name="pinkFloyd_nationality">England</string>
+</resources>
