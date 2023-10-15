@@ -1,0 +1,84 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">30 días de reflexión</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+
+    <string name="day_1">Dia 1 - La importancia de hacer preguntas.</string>
+    <string name="day_2">Dia 2 - El valor de la empatía en las relaciones humanas.</string>
+    <string name="day_3">Dia 3 - La búsqueda de la felicidad y su relación con la satisfacción.</string>
+    <string name="day_4">Dia 4 - El concepto de verdad y su relatividad.</string>
+    <string name="day_5">Dia 5 - La ética y la toma de decisiones.</string>
+    <string name="day_6">Dia 6 - La dualidad de la mente: razón y emoción.</string>
+    <string name="day_7">Dia 7 - La naturaleza de la belleza y su subjetividad.</string>
+    <string name="day_8">Dia 8 - La libertad individual y sus límites.</string>
+    <string name="day_9">Dia 9 - La importancia de la autenticidad en la vida.</string>
+    <string name="day_10">Dia 10 - El papel de la moral en la sociedad.</string>
+    <string name="day_11">Dia 11 - El significado de la vida y la búsqueda de un propósito.</string>
+    <string name="day_12">Dia 12 - La naturaleza del tiempo y su percepción.</string>
+    <string name="day_13">Dia 13 - La justicia y la igualdad en la sociedad.</string>
+    <string name="day_14">Dia 14 - La filosofía oriental y la sabiduría zen.</string>
+    <string name="day_15">Dia 15 - La filosofía existencialista y la angustia.</string>
+    <string name="day_16">Dia 16 - La teoría del conocimiento y la epistemología.</string>
+    <string name="day_17">Dia 17 - La filosofía política y el contrato social.</string>
+    <string name="day_18">Dia 18 - La influencia de la tecnología en la sociedad moderna.</string>
+    <string name="day_19">Dia 19 - El concepto de identidad y la autotrascendencia.</string>
+    <string name="day_20">Dia 20 - El existencialismo y la libertad de elección.</string>
+    <string name="day_21">Dia 21 - La filosofía de la mente y la conciencia.</string>
+    <string name="day_22">Dia 22 - La ética del cuidado del medio ambiente.</string>
+    <string name="day_23">Dia 23 - El pensamiento crítico y la argumentación.</string>
+    <string name="day_24">Dia 24 - La filosofía de la educación y el aprendizaje.</string>
+    <string name="day_25">Dia 25 - La moralidad de la inteligencia artificial.</string>
+    <string name="day_26">Dia 26 - El relativismo cultural y la diversidad.</string>
+    <string name="day_27">Dia 27 - La filosofía de la belleza interior.</string>
+    <string name="day_28">Dia 28 - La filosofía de la felicidad y el bienestar.</string>
+    <string name="day_29">Dia 29 - El legado de los grandes filósofos de la historia.</string>
+    <string name="day_30">Dia 30 - Reflexiones finales y el camino del autoconocimiento.</string>
+
+    <string name="day_description_1">Hoy reflexionamos sobre cómo hacer preguntas nos lleva a la exploración del conocimiento y el entendimiento. No tengas miedo de cuestionar, ¡la curiosidad es el primer paso hacia la sabiduría!</string>
+    <string name="day_description_2">La empatía nos conecta con los demás y nos permite comprender sus experiencias. Hoy exploramos cómo ser más empáticos puede mejorar nuestras relaciones y nuestra comprensión del mundo.</string>
+    <string name="day_description_3">¿Qué es la felicidad? ¿Cómo podemos encontrarla? Hoy reflexionamos sobre la búsqueda de la felicidad y cómo la satisfacción puede ser parte de ese viaje.</string>
+    <string name="day_description_4">La verdad puede ser subjetiva y relativa. Hoy exploramos las diferentes perspectivas sobre la verdad y cómo nuestras experiencias la moldean.</string>
+    <string name="day_description_5">La ética nos guía en nuestras decisiones. Hoy reflexionamos sobre cómo nuestros valores personales influyen en nuestras elecciones y acciones.</string>
+    <string name="day_description_6">La mente humana a menudo se debate entre la razón y la emoción. Hoy exploramos cómo equilibrar estas dos facetas puede llevar a decisiones más informadas.</string>
+    <string name="day_description_7">La belleza está en el ojo del espectador. Hoy reflexionamos sobre cómo percibimos la belleza y cómo esta percepción varía entre las personas.</string>
+    <string name="day_description_8">La libertad es un derecho fundamental, pero también tiene sus límites. Hoy exploramos las responsabilidades que vienen con la libertad.</string>
+    <string name="day_description_9">Ser auténtico consigo mismo es clave para una vida significativa. Hoy reflexionamos sobre la importancia de ser fieles a nuestra propia identidad.</string>
+    <string name="day_description_10">La moralidad es un pilar de la sociedad. Hoy exploramos cómo nuestras acciones afectan a la comunidad y cómo la moralidad moldea nuestras decisiones.</string>
+    <string name="day_description_11">¿Cuál es el propósito de la vida? Hoy exploramos las diferentes perspectivas sobre el significado de la vida y cómo encontrar un propósito que dé sentido a nuestro camino.</string>
+    <string name="day_description_12">El tiempo es una dimensión en constante cambio. Hoy reflexionamos sobre cómo percibimos el tiempo y cómo esta percepción afecta nuestras vidas.</string>
+    <string name="day_description_13">La justicia y la igualdad son ideales fundamentales en una sociedad justa. Hoy exploramos cómo podemos contribuir a un mundo más justo.</string>
+    <string name="day_description_14">La filosofía oriental, como el zen, nos enseña a encontrar la paz en la simplicidad. Hoy reflexionamos sobre las enseñanzas de estas tradiciones.</string>
+    <string name="day_description_15">La filosofía existencialista nos confronta con la angustia de la libertad. Hoy exploramos cómo abrazar la responsabilidad de nuestra propia existencia.</string>
+    <string name="day_description_16">¿Cómo sabemos lo que sabemos? Hoy reflexionamos sobre las formas en que adquirimos conocimiento y cómo podemos cuestionar nuestras creencias.</string>
+    <string name="day_description_17">El contrato social es un concepto fundamental en la filosofía política. Hoy exploramos cómo los acuerdos sociales forman nuestras sociedades.</string>
+    <string name="day_description_18">La tecnología ha transformado nuestra sociedad. Hoy reflexionamos sobre los beneficios y desafíos que plantea la tecnología en el mundo actual.</string>
+    <string name="day_description_19">La identidad es una construcción compleja. Hoy exploramos cómo nuestra identidad evoluciona a lo largo de la vida y cómo podemos trascenderla.</string>
+    <string name="day_description_20">El existencialismo celebra la libertad individual. Hoy reflexionamos sobre cómo nuestras elecciones moldean nuestro destino y sentido de la vida.</string>
+    <string name="day_description_21">La mente es un misterio en constante exploración. Hoy exploramos los debates sobre la conciencia y cómo nuestra mente da forma a nuestra realidad.</string>
+    <string name="day_description_22">La ética ambiental nos llama a ser guardianes de la Tierra. Hoy reflexionamos sobre nuestra responsabilidad en la conservación del planeta.</string>
+    <string name="day_description_23">El pensamiento crítico es una habilidad esencial. Hoy exploramos cómo desarrollar la capacidad de evaluar argumentos y tomar decisiones informadas.</string>
+    <string name="day_description_24">La educación es una herramienta poderosa. Hoy reflexionamos sobre cómo la filosofía de la educación puede transformar nuestras vidas.</string>
+    <string name="day_description_25">La IA plantea preguntas éticas importantes. Hoy exploramos los desafíos y oportunidades que la inteligencia artificial presenta en nuestra sociedad.</string>
+    <string name="day_description_26">La diversidad cultural enriquece nuestra comprensión del mundo. Hoy reflexionamos sobre cómo el relativismo cultural nos anima a abrazar la diversidad.</string>
+    <string name="day_description_27">Hoy exploramos la idea de la belleza interior y cómo el carácter, la empatía y la bondad pueden ser igual de impactantes que la belleza externa. Reflexionemos sobre cómo cultivar nuestra belleza interior puede enriquecer nuestras vidas y las de los demás.</string>
+    <string name="day_description_28">La búsqueda de la felicidad es una meta universal. Hoy reflexionamos sobre las diferentes perspectivas filosóficas sobre la felicidad y el bienestar.</string>
+    <string name="day_description_29">La filosofía tiene una rica historia. Hoy exploramos el legado de filósofos icónicos y cómo sus ideas siguen influyendo en el pensamiento actual.</string>
+    <string name="day_description_30">Llegamos al final de nuestro viaje filosófico de 30 días. Hoy es un momento para reflexionar sobre lo que hemos aprendido y cómo podemos seguir buscando el autoconocimiento y la sabiduría en nuestro camino.</string>
+
+</resources>
